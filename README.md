@@ -1,11 +1,8 @@
-# Meteor Addon Template
+# Meteor AutoMountBypassDupe Addon
 
-A template to allow easy usage of the Meteor Addon API.
+An addon to Meteor Client that adds the mount bypass dupe module back to the GUI.
 
-### How to use:  
-- Clone this project
-- Use the template and API to create new modules/commands
-- Run the mod with Meteor.
-
-### Documentation
-Check the [wiki](https://github.com/MeteorDevelopment/meteor-addon-template/wiki).
+### How to use:
+- Download the latest release of this mod from the [releases tab](https://github.com/MeteorDevelopment/meteor-mbd-addon/releases/latest).
+- Put it in your `.minecraft/mods` folder where you have installed Meteor.
+- It will then add itself to the Meteor GUI and you can use it as normal.
