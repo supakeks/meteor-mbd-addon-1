@@ -2,7 +2,7 @@ package meteordevelopment.addons.mountbypassdupe;
 
 import minegame159.meteorclient.MeteorAddon;
 import minegame159.meteorclient.MeteorClient;
-import minegame159.meteorclient.modules.Modules;
+import minegame159.meteorclient.systems.modules.Modules;
 
 public class MountBypassDupeAddon extends MeteorAddon {
 
